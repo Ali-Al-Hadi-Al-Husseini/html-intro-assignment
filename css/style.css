@@ -34,6 +34,9 @@ li{
     font-size: 20px;
 
 }
+ul{
+    list-style-image:  url('../Assets/ferris_marker.svg');
+}
 img{
     width: 100px;
     max-width: 100%;
