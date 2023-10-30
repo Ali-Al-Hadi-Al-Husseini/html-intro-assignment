@@ -44,3 +44,10 @@ img{
     display: block;
     margin: 6px auto;
 }
+.ferris{
+    width: 50px;
+    display: inline;
+    position: relative;
+    top: 10px;
+}
+
