@@ -7,11 +7,10 @@ info needed
 */
 html{
     font-family:"Open Sans", sans-serif;
-    background-color: #282d3f;
-
+    background-color: #161923;
+    color: #bcbdd0;
 }
 h1 {
-    color: whitesmoke;
     text-align: center;
     line-height: 50px;
     padding: 20px;
