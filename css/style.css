@@ -51,3 +51,9 @@ img{
     top: 10px;
 }
 
+.small-ferris{
+    width: 30px;
+    display: inline;
+    position: relative;
+    top: 10px;
+}
