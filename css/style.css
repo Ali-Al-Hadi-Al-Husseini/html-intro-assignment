@@ -6,5 +6,15 @@ info needed
     
 */
 html{
-    font:"Open Sans", sans-serif;
+    font-family:"Open Sans", sans-serif;
+    background-color: #282d3f;
+
+}
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    line-height: 50px;
+    padding: 20px;
+    font-weight: 200;
+    font-size: 2.4rem;
 }
