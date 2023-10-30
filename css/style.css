@@ -17,3 +17,9 @@ h1 {
     font-weight: 200;
     font-size: 2.4rem;
 }
+article {
+    background-color: #282d3f   ;
+    margin: 15px;
+    padding: 15px;
+}
+
